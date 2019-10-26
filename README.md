@@ -1,4 +1,6 @@
-# Learn about HTML, CSS, and Git (GitHub)
+# freeCodeCamp Antique & NAVS: Meetup II
+
+## Learn about HTML, CSS, and Git (GitHub)
 
 A quick-and-dirty introduction to HTML, CSS, and Git (GitHub).
 
