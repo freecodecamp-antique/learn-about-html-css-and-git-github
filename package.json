@@ -11,18 +11,18 @@
     "build": "grunt"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Billy Arante",
+    "email": "arantebillywilson@gmail.com",
+    "web": "https://arantebw.github.io/"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git://github.com/free-code-camp-antique/learn-about-html-css-and-git-github.git"
   },
   "engines": {
     "node": "^10.16.1"
   },
-  "devDependencies": {
+  "dependencies": {
     "express": "^4.16.2",
     "grunt": "^1.0.4",
     "grunt-cli": "^1.3.2",
